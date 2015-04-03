@@ -1,7 +1,9 @@
-# Raven.js Gem
+# [Deprecated/Unsupported] Raven.js Gem
 [![Gem Version](https://badge.fury.io/rb/ravenjs-gem.svg)](http://badge.fury.io/rb/ravenjs-gem) [![Dependency Status](https://gemnasium.com/ets-berkeley-edu/ravenjs-gem.svg)](https://gemnasium.com/ets-berkeley-edu/ravenjs-gem) [![Code Climate](http://img.shields.io/codeclimate/github/ets-berkeley-edu/ravenjs-gem.svg)](https://codeclimate.com/github/ets-berkeley-edu/ravenjs-gem)
 
 [Raven.js][ravenjs] as a Ruby gem.
+
+**03/25/2015 - Unsupported: Due to the ETS Berkeley team now using [npm](https://www.npmjs.com/) for front-end dependencies, this gem is no longer supported.**
 
 ## Getting Started
 
